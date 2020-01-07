@@ -1,0 +1,23 @@
+Int is valid since C is case sensitive.
+
+char is invalid since it is a keyword in C.
+
+6_05 is invalid because vars can't start with a number in C.
+
+Calloc is valid, consists of letters, starts with letter
+
+Xx is valid, consists of letters, starts with letter
+
+alpha_beta_routine is valid, consists of letters and underscores, starts with letter
+
+floating is valid, consists of letters, starts with letter
+
+_1312 is valid, starts with underscore, consists of numbers
+
+z is valid, consists of single letter
+
+ReInitialize is valid, consists of letters
+
+_ is valid, consists of single underscore
+
+A$ should be invalid since contains $ but works on my system
