@@ -1,0 +1,10 @@
+0x.10.5 is invalid because hexadecimal can't contain decimal places
+
+0x0G1 is invalid because G isn't used in hexadecimal
+
+17777s is invalid because s is not a valid character
+
+1.2F3-7 is invalid because F should be at the end
+
+15,000 is invalid because , is not a valid character
+
